@@ -1,2 +1,2 @@
 # Screening-Data-Analysis
-# Include R scripts to analyze screening data
+This respository includes R scripts to analyze screening data
